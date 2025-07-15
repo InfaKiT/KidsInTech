@@ -3,7 +3,7 @@ const app = express();
 const data=require('./data/users.json');
 
 const { MongoClient, ServerApiVersion, ObjectId  } = require('mongodb');
-const uri = "mongodb+srv://applicationUser:KidsInTech16-07-25@cluster0.tp0a6zj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "mongodb+srv://<username>:<password>@cluster0.mongodb.net/?retryWrites=true&w=majority"; // Replace with your MongoDB connection string
 const databaseName = "kit";
 const collectionName = "users";
 
