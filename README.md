@@ -11,4 +11,8 @@
 
 3. Go back to Github desktop and select "Clone a repository from the Internet" and use "https://github.com/InfaKiT/KidsInTech.git"
    3.a Change to the "development" branch to start making changes.
+<<<<<<< Updated upstream
 4. Put up your hand - your username has to be allowed to make changes to the repository - an instructor will add you.
+=======
+4. Put up your hand - your username has to be allowed to make changes to the repository - an instructor will add you. 
+>>>>>>> Stashed changes
