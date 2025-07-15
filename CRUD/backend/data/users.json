@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Lisa",
+      "lastName": "Simpson"
+    },
+    {
+      "id": 2,
+      "firstName": "Ned",
+      "lastName": "Flanders"
+    },
+    {
+      "id": 3,
+      "firstName": "Mo",
+      "lastName": "Sislak"
+    }
+  ]
+}
