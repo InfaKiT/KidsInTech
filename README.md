@@ -1,7 +1,7 @@
 # KidsInTech
 
-install from the pen drive - node, vs code, github desktop  
- 1.a (optional) check the install by opening cmd (window key and type "cmd"). Use the command to ask windows for the version of the node installed "node --version". You should get a number back - v22.17.0
+1. Install from the pen drive - node, vs code, github desktop  
+   1.a (optional) check the install by opening cmd (window key and type "cmd"). Use the command to ask windows for the version of the node installed "node --version". You should get a number back - v22.17.0
 
 2. Open Github Desktop and make an account  
    Now you can see our codebase for today - https://github.com/InfaKiT/KidsInTech  
