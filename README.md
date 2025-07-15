@@ -8,3 +8,5 @@
 https://github.com/InfaKiT/KidsInTech
 
 3. Select "Clone a repository from the Internet" and use "https://github.com/InfaKiT/KidsInTech.git"
+
+4. Put up your hand - your username has to be allowed to make changes to the repository
