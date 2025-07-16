@@ -1,0 +1,88 @@
+Slide 1: Title Slide
+Welcome to the World of Data & Informatica!
+Presented by: Your Name
+Date: [Insert Date]
+Slide 2: What is Data?
+Data is...
+Pieces of information
+Like facts or numbers
+Examples: Your name, age, favorite game, or scores in a video game!
+Slide 3: Where is Data Found?
+Data is everywhere!
+In your games
+On your phone or tablet
+Websites you visit
+Your school records
+Slide 4: Why is Data Important?
+Helps us learn new things
+Helps people make decisions
+Helps games give you the right level or challenges
+Can tell us what’s popular or trending
+Slide 5: Problems with Data
+There’s too much data!
+Data can be messy or wrong
+Different sources have different kinds of data
+Slide 6: What Does Informatica Do?
+Connects data from different places
+Cleans and organizes the data
+Helps people use data to solve problems
+Slide 7: How Does Informatica Help?
+Imagine putting together a big puzzle
+Informatica finds the pieces from many puzzle boxes
+Cleans pieces so they fit perfectly
+Builds the full picture so it makes sense
+Slide 8: Where Does Informatica Work?
+In the cloud — like a giant internet space
+So companies can access data safely from anywhere
+Helps banks, hospitals, online stores, and more!
+Slide 9: Fun Example: Sorting School Data
+Imagine all your test scores, attendance, and sports info in one place
+Informatica helps organize it so teachers can understand and help you better
+Slide 10: How Can You Use Data?
+Make your own quizzes and games!
+Learn coding to work with data
+Create fun apps for your friends and family
+Slide 11: Summary
+Data is all around us and very important
+Informatica is a tech helper for data
+It cleans, organizes, and connects data to solve real problems
+You can learn to work with data and create amazing things!
+Slide 12: Questions & Fun Activity!
+What’s your favorite data or tech topic?
+Let’s try a quick quiz or game about data!
+Slide 13: Who Helps Make Products at Informatica?
+Many people work together to create amazing products!
+Each person has a special role and job.
+Let’s learn about some cool roles!
+Slide 14: Product Manager (The Boss of the Product)
+Decides what the product should do.
+Talks to customers to understand what they want.
+Works with the team to plan and build the product.
+Slide 15: Software Engineer (The Builder)
+Writes the code to build the product.
+Fixes bugs and makes the product better.
+Works with designers and testers every day.
+Slide 16: Designer (The Artist)
+Creates how the product looks and feels.
+Makes sure the product is easy and fun to use.
+Designs buttons, screens, and colors.
+Slide 17: Quality Engineer / Tester (The Detective)
+Checks the product to find problems or bugs.
+Tests to make sure everything works correctly.
+Helps keep the product safe and reliable.
+Slide 18: Data Scientist / Analyst (The Data Expert)
+Understands data and what it tells us.
+Helps turn data into useful ideas.
+Works with Informatica’s data tools every day!
+Slide 19: Customer Success / Support (The Helper)
+Answers questions from people using the product.
+Helps customers solve problems.
+Makes sure everyone is happy and confident with the product.
+Slide 20: Everyone Works Together!
+All these roles team up to create great products.
+Communication and teamwork are very important.
+Just like in a sports team, everyone’s role matters!
+Slide 21: How You Could Fit In
+Interested in creating? Try coding or design!
+Like solving puzzles? Testing and data are great!
+Good at talking and organizing? Product manager or support could be for you!
