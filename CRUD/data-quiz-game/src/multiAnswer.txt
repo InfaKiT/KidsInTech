@@ -6,7 +6,7 @@
     if (Array.isArray(correctAnswer)) {
       correct = correctAnswer.includes(index);
     } else {
-      correct = correctAnswer === index;
+      correct = correctAnswer == index;
     }
 
     setIsCorrect(correct);
