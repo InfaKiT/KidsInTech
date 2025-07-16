@@ -1,0 +1,15 @@
+  const handleAnswer = (index) => {
+    if (showFeedback) return; // Prevent multiple answers
+    // If the answer is an array (multiple correct answers)
+    const correctAnswer = questions[current].answer;
+    let correct;
+    if (Array.isArray(correctAnswer)) {
+      correct = correctAnswer.includes(index);
+    } else {
+      correct = correctAnswer === index;
+    }
+
+    setIsCorrect(correct);
+    if (correct) setScore(score + 1);
+    setShowFeedback(true);
+  };

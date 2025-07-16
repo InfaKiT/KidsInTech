@@ -19,9 +19,15 @@ app.post('/user', (request, response) => {
 // HTTP GET (Single user) --> RETRIEVE
 app.get('/user/:id', (request, response) => {
   const userId = request.params.id;
+
+  const user = data.users.find(u => u.id == userId);
+  if (!user) {
+    return response.status(404).json({ error: 'User not found' });
+  }
+
   console.log("GET - user with id "+userId);  
 
-  return response.json('{value:"OK"}');
+  return response.json(user);
 });
 
 // HTTP GET --> RETRIEVE

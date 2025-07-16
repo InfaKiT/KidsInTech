@@ -1,7 +1,8 @@
 # Getting started with web apps
+Run **npm install** from this folder
 
-## Run backend 
+# Run backend 
 Run **node index.js** from this folder
 
-Enter **locahost:5000** in browser
+Enter **http://localhost:5000** in browser
 
